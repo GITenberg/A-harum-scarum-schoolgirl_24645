@@ -1,0 +1,33 @@
+_repo: A-harum-scarum-schoolgirl_24645
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Campbell, John
+    gutenberg_agent_id: '26642'
+    url: http://www.gutenberg.org/2009/agents/26642
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brazil, Angela
+    birthdate: 1869
+    deathdate: 1947
+    gutenberg_agent_id: '2544'
+    url: http://www.gutenberg.org/2009/agents/2544
+    wikipedia: http://en.wikipedia.org/wiki/Angela_Brazil
+description: ''
+gutenberg_issued: '2008-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24645'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Girls -- Juvenile fiction'
+title: A harum-scarum schoolgirl
+url: http://www.gutenberg.org/ebooks/24645
